@@ -1,0 +1,1 @@
+/home/mbed/Pulpit/Git_projects/noteScanner/build/CMakeFiles/noteScanner.dir
