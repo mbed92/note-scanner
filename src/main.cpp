@@ -109,7 +109,7 @@ int main(int argc, char** argv)
 	//arg count
 	if (argc != 2)
 	{
-		cout << "Usage: Camscanner <photo_name>" << endl;
+		cout << "Usage: noteScanner <photo_to_scan.extension>" << endl;
 		return -1;
 	}
 	
